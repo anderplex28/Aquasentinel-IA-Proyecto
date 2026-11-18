@@ -1,0 +1,22 @@
+DATOS CALIDAD DEL AGUA
+Nivel Riesgo: CRITICO (100.0% anomalas, max desv 3.75)
+PH: 1 lecturas, prom 2.75, 1 fuera de rango, tend: estable.
+TURBIDEZ: 1 lecturas, prom 3.46, 1 fuera de rango, tend: estable.
+
+ALERTAS CRITICAS:
+- Sensor MUESTRA_1 (Río Simulado): ph=2.75 (+3.75)
+- Sensor MUESTRA_1 (Río Simulado): turbidez=3.46 (+1.46)
+
+
+=== ANALISIS DE LA IA ===
+
+1. pH: El nivel de pH está en un rango crítico, con una lectura promedio de 2.75 y una desviación estándar de 3.75. Esto indica que el pH es muy bajo, lo cual puede ser peligroso para la salud humana y los organismos marinos.
+
+2. TURBIDEZ: La turbidez está en un rango crítico, con una lectura promedio de 3.46 y una desviación estándar de 1.46. Esto indica que el agua es muy turbulenta, lo cual puede afectar la visibilidad y la calidad del aire.
+
+3. PREDICCIONES: Basado en los datos actuales, se espera que el pH continúe en un nivel crítico, con una probabilidad alta de que siga siendo bajo. La turbidez también está esperando a que vuelva a establecerse en un nivel normal.
+
+4. RECOMENDACIONES:
+   - Asegurarse de que los sensores estén funcionando correctamente y sin daños.
+   - Realizar una inspección detallada del río simulado para identificar cualquier causa potencial de la anomalía.
+   - Considerar el uso de filtros o tratamientos adicionales para mejorar la calidad del agua.
