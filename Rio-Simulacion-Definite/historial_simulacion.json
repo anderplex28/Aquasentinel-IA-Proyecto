@@ -1,0 +1,296 @@
+[
+  [
+    "MUESTRA_1",
+    "R\u00edo Simulado",
+    "ph",
+    2.75,
+    "Toma 1"
+  ],
+  [
+    "MUESTRA_1",
+    "R\u00edo Simulado",
+    "turbidez",
+    3.46,
+    "Toma 1"
+  ],
+  [
+    "MUESTRA_2",
+    "R\u00edo Simulado",
+    "ph",
+    3.1,
+    "Toma 2"
+  ],
+  [
+    "MUESTRA_2",
+    "R\u00edo Simulado",
+    "turbidez",
+    3.208,
+    "Toma 2"
+  ],
+  [
+    "MUESTRA_3",
+    "R\u00edo Simulado",
+    "ph",
+    5.0,
+    "Toma 3"
+  ],
+  [
+    "MUESTRA_3",
+    "R\u00edo Simulado",
+    "turbidez",
+    1.84,
+    "Toma 3"
+  ],
+  [
+    "MUESTRA_4",
+    "R\u00edo Simulado",
+    "ph",
+    6.4,
+    "Toma 4"
+  ],
+  [
+    "MUESTRA_4",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.832,
+    "Toma 4"
+  ],
+  [
+    "MUESTRA_5",
+    "R\u00edo Simulado",
+    "ph",
+    6.4,
+    "Toma 5"
+  ],
+  [
+    "MUESTRA_5",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.832,
+    "Toma 5"
+  ],
+  [
+    "MUESTRA_6",
+    "R\u00edo Simulado",
+    "ph",
+    6.4,
+    "Toma 6"
+  ],
+  [
+    "MUESTRA_6",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.832,
+    "Toma 6"
+  ],
+  [
+    "MUESTRA_7",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 7"
+  ],
+  [
+    "MUESTRA_7",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 7"
+  ],
+  [
+    "MUESTRA_8",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 8"
+  ],
+  [
+    "MUESTRA_8",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 8"
+  ],
+  [
+    "MUESTRA_9",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 9"
+  ],
+  [
+    "MUESTRA_9",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 9"
+  ],
+  [
+    "MUESTRA_10",
+    "R\u00edo Simulado",
+    "ph",
+    2.45,
+    "Toma 10"
+  ],
+  [
+    "MUESTRA_10",
+    "R\u00edo Simulado",
+    "turbidez",
+    3.676,
+    "Toma 10"
+  ],
+  [
+    "MUESTRA_11",
+    "R\u00edo Simulado",
+    "ph",
+    5.1,
+    "Toma 11"
+  ],
+  [
+    "MUESTRA_11",
+    "R\u00edo Simulado",
+    "turbidez",
+    1.768,
+    "Toma 11"
+  ],
+  [
+    "MUESTRA_12",
+    "R\u00edo Simulado",
+    "ph",
+    5.1,
+    "Toma 12"
+  ],
+  [
+    "MUESTRA_12",
+    "R\u00edo Simulado",
+    "turbidez",
+    1.768,
+    "Toma 12"
+  ],
+  [
+    "MUESTRA_13",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 13"
+  ],
+  [
+    "MUESTRA_13",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 13"
+  ],
+  [
+    "MUESTRA_14",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 14"
+  ],
+  [
+    "MUESTRA_14",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 14"
+  ],
+  [
+    "MUESTRA_15",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 15"
+  ],
+  [
+    "MUESTRA_15",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 15"
+  ],
+  [
+    "MUESTRA_16",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 16"
+  ],
+  [
+    "MUESTRA_16",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 16"
+  ],
+  [
+    "MUESTRA_17",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 17"
+  ],
+  [
+    "MUESTRA_17",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 17"
+  ],
+  [
+    "MUESTRA_18",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 18"
+  ],
+  [
+    "MUESTRA_18",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 18"
+  ],
+  [
+    "MUESTRA_19",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 19"
+  ],
+  [
+    "MUESTRA_19",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 19"
+  ],
+  [
+    "MUESTRA_20",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 20"
+  ],
+  [
+    "MUESTRA_20",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 20"
+  ],
+  [
+    "MUESTRA_21",
+    "R\u00edo Simulado",
+    "ph",
+    7.0,
+    "Toma 21"
+  ],
+  [
+    "MUESTRA_21",
+    "R\u00edo Simulado",
+    "turbidez",
+    0.4,
+    "Toma 21"
+  ]
+]
